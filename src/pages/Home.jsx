@@ -49,16 +49,16 @@
     repeat={Infinity}
   />
         <div className='flex justify-center items-center space-x-8 mt-4 '>
-          <a href="https://www.facebook.com/profile.php?id=61578601443044">
+          <a href="https://www.facebook.com/profile.php?id=61578601443044" target="_blank" rel="noopener noreferrer">
         <img src={Facebook} alt="Facebook" className='h-11 w-11 hover:scale-120 transition-transform duration-300'/>
         </a>
-        <a href="https://www.instagram.com/axe.soull/">
+        <a href="https://www.instagram.com/axe.soull/" target="_blank" rel="noopener noreferrer">
         <img src={Instagram} alt="Instagram" className='h-7 w-7 hover:scale-120 transition-transform duration-300' />
         </a>
-        <a href="https://www.linkedin.com/in/axlejohn-jebulan-39a5a7377/">
+        <a href="https://www.linkedin.com/in/axlejohn-jebulan-39a5a7377/" target="_blank" rel="noopener noreferrer">
         <img src={LinkedIn} alt="LinkedIn" className='h-8 w-8 hover:scale-120 transition-transform duration-300' />
         </a>
-        <a href="https://github.com/aksellll-gif">
+        <a href="https://github.com/aksellll-gif" target="_blank" rel="noopener noreferrer">
         <img src={Git} alt="Github"  className='h-8 w-14 hover:scale-120 transition-transform duration-300'/>
         </a>
         </div>

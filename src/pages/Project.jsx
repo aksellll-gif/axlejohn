@@ -92,7 +92,7 @@ export default function Project() {
                  delay: 0.4,         
                  }}>
   <div className="w-8 h-8 flex items-center justify-center rounded-full bg-black hover:scale-120 transition-transform duration-300">
-   <a href="https://capstone-lms.vercel.app/"> <ExternalLinkIcon className="w-6 h-6 text-white" /></a>
+   <a href="https://capstone-lms.vercel.app/" target="_blank" rel="noopener noreferrer"> <ExternalLinkIcon className="w-6 h-6 text-white" /></a>
   </div>
   </motion.div>
   <motion.div    initial={{ opacity: 0, scale: 0.2 }}       
@@ -105,7 +105,7 @@ export default function Project() {
                  delay: 0.6,         
                  }}>
   <div className="w-8 h-8 flex items-center justify-center rounded-full bg-black hover:scale-120 transition-transform duration-300">
-  <a href="https://github.com/aksellll-gif/capstone-lms "><Github className="w-6 h-6 text-white" /></a>
+  <a href="https://github.com/aksellll-gif/capstone-lms " target="_blank" rel="noopener noreferrer"><Github className="w-6 h-6 text-white" /></a>
   </div>
   </motion.div>
 </div>
@@ -195,7 +195,7 @@ export default function Project() {
                  delay: 0.6,         
                  }}>
   <div className="w-8 h-8 flex items-center justify-center rounded-full bg-black hover:scale-120 transition-transform duration-300">
-  <a href="https://github.com/aksellll-gif/brms-admin"><Github className="w-6 h-6 text-white" /></a>
+  <a href="https://github.com/aksellll-gif/brms-admin" target="_blank" rel="noopener noreferrer"><Github className="w-6 h-6 text-white" /></a>
   </div>
   </motion.div>
 </div>
@@ -270,7 +270,7 @@ export default function Project() {
                  delay: 0.4,         
                  }}>
   <div className="w-8 h-8 flex items-center justify-center rounded-full bg-black hover:scale-120 transition-transform duration-300">
-   <a href="https://aksellll-gif.github.io/gym-management/"> <ExternalLinkIcon className="w-6 h-6 text-white" /></a>
+   <a href="https://aksellll-gif.github.io/gym-management/" target="_blank" rel="noopener noreferrer"> <ExternalLinkIcon className="w-6 h-6 text-white" /></a>
   </div>
   </motion.div>
   <motion.div    initial={{ opacity: 0, scale: 0.2 }}       
@@ -283,7 +283,7 @@ export default function Project() {
                  delay: 0.6,         
                  }}>
   <div className="w-8 h-8 flex items-center justify-center rounded-full bg-black hover:scale-120 transition-transform duration-300">
-  <a href="https://github.com/aksellll-gif/gym-management"><Github className="w-6 h-6 text-white" /></a>
+  <a href="https://github.com/aksellll-gif/gym-management" target="_blank" rel="noopener noreferrer"><Github className="w-6 h-6 text-white" /></a>
   </div>
   </motion.div>
 </div>
