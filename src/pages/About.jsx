@@ -101,7 +101,7 @@ export default function About() {
                damping: 12,         
                delay: 0.2,         
                }}>          
-               <a href="./public/Axle-John_DG_Jebulan_Resume.pdf">
+               <a href="/public/Axle-John_DG_Jebulan_Resume.pdf">
                <Button className="w-fit mx-auto lg:mx-0 transform transition-transform duration-300 hover:scale-110">Download CV</Button>
                </a>
                </motion.div>
